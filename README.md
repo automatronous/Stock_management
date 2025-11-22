@@ -18,10 +18,15 @@ StockMaster is a modular, real-time Inventory Management System (IMS) designed t
 - Stock Adjustments: Adjust for damaged or lost stock with logging and reconciliation
 - Comprehensive stock ledger showing all stock movements and adjustments
 - Dynamic filtering by document type, product category, location, and transaction status
+- Real time interactive dashboard
+- Bright Neon alert system with wattsapp notifications
+- Modular and flexible for any business and scale
+- Real time transfer tracking with map
+- Expiry and QR tracking
 
 ## Technology Stack
 
-- Backend: Python (Flask)
-- Database: MongoDB (document-oriented, flexible schema)
+- Backend: Typescript(React)
+- Database: Supabase (document-oriented, flexible schema)
 - Frontend: Flask Templates (Jinja2) with HTML, CSS, and JavaScript
 - Authentication: Custom-built with Flask, featuring username/password login and OTP password reset
